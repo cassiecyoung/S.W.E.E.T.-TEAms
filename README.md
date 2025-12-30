@@ -5,6 +5,12 @@ S.W.E.E.T. TEAms is a web-based Social and Emotional Learning (SEL) tool designe
 It uses interactive, conversation-based questions to build meaningful connections, emotional awareness, and teamwork skills.
 
 ---
+## 📸 Screenshots
+
+![Home Screen](screenshots/home.png)
+![Question Display](screenshots/question.png)
+![Competitive Mode](screenshots/competitive.png)
+
 
 ## 🌱 What S.W.E.E.T. Stands For
 
