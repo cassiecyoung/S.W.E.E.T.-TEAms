@@ -78,6 +78,18 @@ S.W.E.E.T. TEAms aligns with:
 - Trauma-informed approaches
 - Youth development best practices
 
+## 📊 Curriculum Alignment
+
+| S.W.E.E.T. Category | SEL Competency | Skill Focus |
+|--------------------|---------------|-------------|
+| Self Esteem | Self-Awareness | Confidence, identity, self-reflection |
+| Well-Balanced | Self-Management | Stress regulation, balance, coping |
+| Empathetic | Social Awareness | Perspective-taking, compassion |
+| Empowered | Responsible Decision-Making | Leadership, accountability |
+| Team Player | Relationship Skills | Collaboration, communication |
+| Getting to Know Me | Relationship Skills | Trust-building, connection |
+| Competitive: How Well Do You Know Me? | Social Awareness & Relationships | Listening, memory, empathy |
+
 ---
 
 ## 🛠️ Technology
