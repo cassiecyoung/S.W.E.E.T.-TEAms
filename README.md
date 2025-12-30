@@ -30,6 +30,15 @@ S.W.E.E.T. TEAms helps educators, coaches, and youth leaders:
 - Support emotional growth
 - Foster positive team culture
 - Create safe spaces for youth voice
+---
+
+## 🚀 Getting Started (For Schools & Programs)
+
+**Time Required:** 5 minutes  
+**Materials Needed:**  
+- Internet-connected device  
+- Numbered ball (1–25)  
+- Group of youth 
 
 ---
 
