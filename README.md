@@ -96,6 +96,16 @@ S.W.E.E.T. TEAms aligns with:
 - No logins
 - Facilitator-led discussions ensure emotional safety
 
+- ## 📘 Facilitator Guide
+
+A detailed facilitator guide is available with:
+- Group norms
+- Emotional safety guidance
+- Suggested scripts
+- Competitive mode instructions
+
+👉 [Download the Facilitator Guide](facilitator-guide.pdf)
+
 ---
 
 ## 📄 License
